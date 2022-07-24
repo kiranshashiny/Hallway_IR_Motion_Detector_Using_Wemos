@@ -11,8 +11,6 @@ The sensitivity is set to minimum,
 The "Off Time Control" is set to 30 seconds. It can vary from 3 secs to 5 minutes.
 
 
-
-
 # PIR Motion Detection and code/sketch
 
 This uses the HC SR 501 motion sensor.
@@ -49,12 +47,12 @@ The control pin "pirPin" of MD is connected to Pin 16 of the wemos.
 ![image](https://user-images.githubusercontent.com/14288989/180633865-81839723-a3f8-4e77-994a-6e2be8c51388.png)
 
 
-# Electrical Junction box 
+## Electrical Junction box 
 
 ![image](https://user-images.githubusercontent.com/14288989/180634193-15b5ec04-354a-44a7-850c-6d2ef4d55536.png)
 
 
-# Video of the living room - see that the LED bulb light up as I walk in.
+## Video of the living room - see that the LED bulb light up as I walk in.
 
 
 https://user-images.githubusercontent.com/14288989/180633701-ee183a60-df2c-483c-84c6-9c12ff860ac9.mp4
